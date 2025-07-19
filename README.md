@@ -206,9 +206,9 @@ This project is licensed under the MIT License.
 ## Developer
 
 **Deepak Singh**
-- LinkedIn: [linkedin.com/in/deepak-singh](https://linkedin.com/in/deepak-singh)
-- GitHub: [github.com/deepak-singh](https://github.com/deepak-singh)
-- Portfolio: [deepak-singh.portfolio.com](https://deepak-singh.portfolio.com)
+- LinkedIn: [linkedin.com/in/akklatejaswaroop](https://linkedin.com/in/akkalatejaswaroop)
+- GitHub: [github.com/akkalatejaswaroop](https://github.com/akkalatejaswaroop)
+- Portfolio: [https://akkalatejaswaroop.github.io/portifolio/]((https://akkalatejaswaroop.github.io/portifolio/)
 
 ## Acknowledgments
 
